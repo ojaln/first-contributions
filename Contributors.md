@@ -8,7 +8,7 @@
 - Michael Dereje Kebede (https://github.com/michaeldkebede)
 - Rohit Lambora
 - Talhah Patelia
-- Ojal Neelawarna (https://github.com/ojaln/)
+- Ojal Neelawarna (https://github.com/ojaln)
 - GyaaniGuy
 - Adam Pawtel
 - [reddtoric](https://github.com/reddtoric)
